@@ -25,7 +25,7 @@ This repository serves as a central hub, linking to individual repositories for 
 
 6. Introduction to Bioinformatics (Fall 2023)
    - Professors: Dr. Akbari, Dr. Razani
-   - I organized and conducted a workshop on bioinformatics databases, focusing on their structure, usage, and applications in research. [Available here.](https://drive.google.com/file/d/1AqjkGjxIWlto1INdwxU2ChaXkpaRO2Z1/view?usp=drive_link)
+   - I organized and conducted a workshop on **bioinformatics databases**, focusing on their structure, usage, and applications in research. [Available here.](https://drive.google.com/file/d/1AqjkGjxIWlto1INdwxU2ChaXkpaRO2Z1/view?usp=drive_link)
 
 ---
 
