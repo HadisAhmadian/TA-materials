@@ -33,5 +33,4 @@ This repository contains the key materials and resources from the "Introduction 
 As the Head TA, I:
 - Designed and managed exams, projects, and quizzes.
 - Led a team of 12 teaching assistants to develop and grade course materials.
-- Organized weekly sessions for solving Rosalind challenges.
 - Provided consistent feedback and streamlined grading processes.
