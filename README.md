@@ -11,8 +11,8 @@ This repository serves as a central hub, linking to individual repositories for 
 1. [Introduction to Bioinformatics Materials](https://github.com/HadisAhmadian/bioinformatics-materials)  
    - Professors: Dr. Kouhi, Dr. Sharifi Zarchi  
 
-2. [Introduction to Machine Learning Materials](https://github.com/HadisAhmadian/ML-materials)  
-   - Professors: Dr. Sharifi Zarchi, Dr. Azar Khalili  
+2. [Introduction to Machine Learning Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/ML-materials) 
+   - Professors: Dr. Sharifi Zarchi, Mr. Azar Khalili  
 
 3. [Artificial Intelligence Materials](https://github.com/HadisAhmadian/ai-teaching-materials)  
    - Professors: Dr. Rahban, Dr. Soleimani  
