@@ -14,7 +14,7 @@ This repository serves as a central hub, linking to individual repositories for 
 2. [Introduction to Machine Learning Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/ML-materials) 
    - Professors: Dr. Sharifi Zarchi, Mr. Azar Khalili  
 
-3. [Artificial Intelligence Materials](https://github.com/HadisAhmadian/ai-teaching-materials)  
+3. [Artificial Intelligence Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/AI-materials)  
    - Professors: Dr. Rahban, Dr. Soleimani  
 
 4. [Medical Image Processing Materials](https://github.com/HadisAhmadian/image-processing-materials)  
