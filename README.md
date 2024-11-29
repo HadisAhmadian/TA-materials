@@ -8,7 +8,7 @@ This repository serves as a central hub, linking to individual repositories for 
 ## **Course Repositories**  
 
 ### **Sharif University of Technology (2020–2024)**  
-1. [Introduction to Bioinformatics Materials](https://github.com/HadisAhmadian/bioinformatics-materials)  
+1. [Introduction to Bioinformatics Materials (HEAD TA) ](https://github.com/HadisAhmadian/TA-materials/tree/main/Intro-To-Bio-Materials)  
    - Professors: Dr. Kouhi, Dr. Sharifi Zarchi  
 
 2. [Introduction to Machine Learning Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/ML-materials) 
