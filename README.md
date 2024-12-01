@@ -17,7 +17,7 @@ This repository serves as a central hub, linking to individual repositories for 
 3. [Artificial Intelligence Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/AI-materials)  
    - Professors: Dr. Rahban, Dr. Soleimani  
 
-4. [Medical Image Processing Materials](https://github.com/HadisAhmadian/image-processing-materials)  
+4. [Medical Image Processing Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/Medical-image-processing-materials)  
    - Professor: Dr. Rahban  
 
 5. [Natural Language Processing Materials](https://github.com/HadisAhmadian/nlp-materials)  
