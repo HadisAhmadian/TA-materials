@@ -25,8 +25,3 @@ In my role as a Teaching Assistant (TA), I actively contributed to the creation,
    - Enhanced image quality using spatial and frequency-domain filters.
    - Implemented noise injection and removal techniques to simulate real-world challenges.
 
-### Impact
-
-These contributions have empowered students to master essential skills in biomedical image analysis, integrating foundational knowledge with advanced techniques. The curated tasks and assessments provided a well-rounded educational experience, fostering a deep understanding of both classical and modern approaches to medical image processing.
-
-
