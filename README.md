@@ -20,7 +20,7 @@ This repository serves as a central hub, linking to individual repositories for 
 4. [Medical Image Processing Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/Medical-image-processing-materials)  
    - Professor: Dr. Rahban  
 
-5. [Natural Language Processing Materials](https://github.com/HadisAhmadian/nlp-materials)  
+5. [Natural Language Processing Materials](https://github.com/HadisAhmadian/TA-materials/tree/main/NLP-materials)
    - Professor: Dr. Asgari  
 
 6. Introduction to Bioinformatics (Fall 2023)
